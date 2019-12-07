@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Halaman Pengurus - www.malasngoding.com</title>
+	<title>Halaman Pengurus</title>
 </head>
 <body>
 	<?php
@@ -21,6 +21,5 @@
 	<br/>
 	<br/>
 
-	<a><a href="https://www.malasngoding.com/membuat-login-multi-user-level-dengan-php-dan-mysqli">Membuat Login Multi Level Dengan PHP</a> - www.malasngoding.com</a>
 </body>
 </html>

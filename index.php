@@ -6,7 +6,7 @@
 </head>
 <body>
 
-	<h1>Membuat Login Multi User Level Dengan PHP dan MySQLi <br/> www.malasngoding.com</h1>
+	<h1>Membuat Login Multi User Level Dengan PHP dan MySQLi</h1>
 
 	<?php
 	if(isset($_GET['pesan'])){
@@ -30,9 +30,6 @@
 
 			<br/>
 			<br/>
-			<center>
-				<a class="link" href="https://www.malasngoding.com">kembali</a>
-			</center>
 		</form>
 
 	</div>
