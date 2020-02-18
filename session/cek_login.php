@@ -6,6 +6,7 @@ session_start();
 include 'koneksi.php';
 
 // menangkap data yang dikirim dari form
+// belum mengunakan MD5
 $username = $_POST['username'];
 $password = $_POST['password'];
 
